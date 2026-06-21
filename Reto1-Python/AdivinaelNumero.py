@@ -1,4 +1,3 @@
-ls Reto1-Python
 import random
 
 class AdivinaNumero:
